@@ -1,6 +1,6 @@
 ## Muito bem vindo, eu sou a Isadora! 👋
 
-Estudante de Análise de Dados com foco em programação. Atualmente este perfil é voltado para projetos para praticar lógica, manipulação de dados e desenvolvimento de sistemas. Aqui você encontrará projetos de estudo, testes, experimentos e evoluções ao longo da minha jornada na programação.
+Estudante de Análise e desenvolvimento de sistemas com foco em programação. Atualmente este perfil é voltado para projetos para praticar lógica, manipulação de dados e desenvolvimento de sistemas. Aqui você encontrará projetos de estudo, testes, experimentos e evoluções ao longo da minha jornada na programação.
 
 **Metodologias / Frameworks Ágeis**<br>
 Scrum • Kanban
